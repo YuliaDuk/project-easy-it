@@ -1,0 +1,15 @@
+@font-face {
+    font-family: Gilroy;
+    font-weight: lighter;
+    src: url(../../fonts/Gilroy-Light.otf);
+}
+@font-face {
+    font-family: Gilroy;
+    font-weight: bold;
+    src: url(../../fonts/Gilroy-ExtraBold.otf);
+}
+@font-face {
+    font-family: Chronicle Display;
+    font-weight: bold;
+    src: url(../../fonts/Chronicle\ Display\ Semibold.otf);
+}

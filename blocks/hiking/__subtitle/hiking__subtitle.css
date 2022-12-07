@@ -1,0 +1,22 @@
+.hiking__subtitle{
+    margin: 0;
+    padding: 0 0 27px 104px;
+    letter-spacing: 6px;
+    font-size: 18px;
+    font-weight: 800;
+    line-height: 22px;
+    text-transform: uppercase;
+    text-align: left;
+    color: #FBD784;
+    position: relative;
+    }
+.hiking__subtitle::before{
+    content: '';
+    position: absolute;
+    top:10px;
+    left: 0;
+    width: 72px;
+    height: 2px;
+    background-color: #FBD784;
+        
+    }

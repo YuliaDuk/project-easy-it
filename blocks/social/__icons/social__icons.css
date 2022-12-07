@@ -1,0 +1,10 @@
+.social__icons{
+    margin: 0;
+    padding: 270px 0 0 0;
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    z-index: 2;
+
+}

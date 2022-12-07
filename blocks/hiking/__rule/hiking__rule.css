@@ -1,0 +1,12 @@
+.hiking__rule{
+    margin: 0;
+    padding: 0 0 200px 0;
+    height: 720px;
+    display: flex;
+   justify-content: space-between;
+    align-items: center;
+ 
+}
+.hiking__rule:last-child{
+    padding-bottom: 0;
+}
